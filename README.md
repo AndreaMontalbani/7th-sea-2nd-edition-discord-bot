@@ -9,5 +9,5 @@ Then replace string "addyourtokenhere" with your actual discord token. You can f
 be careful with your token.
 
 You can then add your bot to a discord server where you have admin privileges, start your app with ```python arrbot.py``` from terminal and type 
-in the discord chat in the server where you added you bot to ```!roll <n>``` to roll a wanted number (n) of dice.
+in the discord chat in the server where you added you bot to ```!roll <n>``` to roll a wanted number (n) of dice and get a message showing the roll result and the number of increments calculated.
 
